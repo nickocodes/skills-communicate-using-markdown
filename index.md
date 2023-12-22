@@ -13,3 +13,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 def hello(name):
   print("Hello, " + name)
 ```
+### Task List
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is incomplete
+### Activity
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
